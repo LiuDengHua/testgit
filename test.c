@@ -1,5 +1,6 @@
 #include <stdio.h>
-/* B add hear. */
+/* A add hear.*/
+/* B add hear.*/
 int main(void)
 {
 
